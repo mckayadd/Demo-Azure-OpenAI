@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure-OpenAI-Demo", "Azure-OpenAI-Demo.csproj", "{932B6EDF-0D15-5C14-4C14-A709247EA93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932B6EDF-0D15-5C14-4C14-A709247EA93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932B6EDF-0D15-5C14-4C14-A709247EA93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932B6EDF-0D15-5C14-4C14-A709247EA93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932B6EDF-0D15-5C14-4C14-A709247EA93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A57D6E6-8F5F-4BAA-9DC5-A056CFD5EB7C}
+	EndGlobalSection
+EndGlobal
